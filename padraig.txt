@@ -1,1 +1,3 @@
 this is a small update in branchForTeam1
+This is update in 3waybranch
+And this is update from team 1 branch
