@@ -1,1 +1,6 @@
 test1.1
+<<<<<<< HEAD
+
+changes made on branchv1.2
+=======
+>>>>>>> master
